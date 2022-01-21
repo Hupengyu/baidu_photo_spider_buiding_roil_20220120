@@ -1,0 +1,2 @@
+# baidu_photo_spider_buiding_roil_20220120
+裸土和建筑垃圾数据集
